@@ -1,0 +1,37 @@
+body {
+    text-align:center;
+  }
+  h1 {
+    font-family: Arial Verdana;
+    font-size: 50px;
+  } 
+  h2 {
+    color: #89cff0;
+  }
+  #image {
+    width: 300px;
+    height: auto;
+  }
+  #img-caption {
+    font-family: cursive;
+  }
+  .info {
+    font-family: helvetica;
+  }
+  .link {
+    font-size: 26px;
+    color: blue;
+  }
+  .subscribe {
+      font-size: 25px;
+      color: violet;
+  }
+  details {
+      color: blue;
+      font-size: 20px;
+  }
+  .information-link {
+      font-size: 18px;
+      font-family: cursive;
+      color: violet;
+  }
